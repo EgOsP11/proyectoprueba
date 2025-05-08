@@ -1,0 +1,60 @@
+{
+    "NAV": {
+      "HOME": "Home",
+      "PROJECTS": "Projects",
+      "ABOUT": "About Us",
+      "CONTACT": "Contact"
+    },
+    "IKAL": {
+      "DESCRIPTION": "Comprising 20 properties, Ikal Condos has been designed to offer a harmonious blend of contemporary living and nature, thanks to its welcoming terraces that take advantage of the wind, natural light, and views.",
+      "TITLE": "ikal - Spirit",
+      "SUBTITLE": "15 Condominiums | 5 Penthouses - PRESALE",
+      "LOCATION": "Arrocito Residential, Bahías de Huatulco.",
+      "DETAIL_1": "Comprising 20 properties, Ikal Condos has been designed to offer a harmonious blend of contemporary living and nature, providing a unique residential experience. Each unit is meticulously designed with attention to detail, standing out in modern architecture that seamlessly integrates with the natural surroundings.",
+      "DETAIL_2": "The welcoming terraces allow residents to enjoy the fresh breeze, natural light, and spectacular views of the surrounding landscape. Additionally, the interior spaces are characterized by their spaciousness and brightness, creating a warm and cozy atmosphere, ideal for living and relaxing in complete harmony with nature."
+    },
+    "ARCHITECTURE": {
+      "DESCRIPTION_1": "Our architecture stands out for its innovative design that combines elegance and functionality, perfectly adapting to residents' needs. Currently, we have a limited inventory of available units, each with unique features that reflect the distinctive style of our architecture.",
+      "DESCRIPTION_2": "These exclusive properties are ready to offer an incomparable living experience, combining luxury and comfort in every corner of the home.",
+      "VIEWS": {
+        "FRONT": "FRONT VIEW",
+        "SIDE": "SIDE VIEW"
+      }
+    },
+    "PRICE_LIST": {
+      "TITLE": "PRICE LIST",
+      "HEADERS": {
+        "UNIT": "UNIT",
+        "TOTAL": "TOTAL",
+        "PRICE": "PRICE",
+        "PDF": "PDF"
+      },
+      "SOLD": "SOLD",
+      "DOWNLOAD": "Download"
+    },
+    "BEACH": {
+      "ARROCITO": "Playa Arrocito is a small hidden paradise on the coast of Huatulco. With its golden sand and crystal-clear waters, it offers a peaceful environment ideal for relaxation. Surrounded by nature, it's perfect for swimming and enjoying the landscape. Its charm lies in its serenity and unparalleled natural beauty.",
+      "DISTANCE": "Playa Arrocito, known for its beauty and tranquility, is just 5 minutes from our project, giving residents the opportunity to enjoy the sea and nature in just minutes.",
+      "LIFESTYLE": "The lifestyle in Huatulco combines coastal tranquility with a vibrant atmosphere. Surrounded by nature, its residents enjoy outdoor activities, spectacular beaches, and warm weather all year round. It's a place where quality of life is in harmony with the beauty of the surroundings."
+    },
+    "PROJECTS": {
+      "TITLE": "Explore other projects ready for investment",
+      "DESCRIPTION": "Our architecture stands out for its innovative design that combines elegance and functionality, perfectly adapting to residents' needs. Currently, we have a limited inventory of available units, each with unique features that reflect the distinctive style of our architecture.",
+      "STATUS": "SOLD OUT!"
+    },
+    "NEWSLETTER": {
+      "TITLE": "OUR NEWSLETTER",
+      "DESCRIPTION": "If you're interested in learning more about our work and the projects we're participating in, leave us your information and receive our newsletter.",
+      "PLACEHOLDERS": {
+        "NAME": "Name",
+        "EMAIL": "Email"
+      },
+      "BUTTON": "Subscribe",
+      "FOLLOW": "Follow us"
+    },
+    "FOOTER": {
+      "BRAND": "Gurrión.com",
+      "LOGIN": "Login Panel"
+    }
+  }
+  

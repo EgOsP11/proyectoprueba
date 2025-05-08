@@ -1,0 +1,60 @@
+{
+    "NAV": {
+      "HOME": "Home",
+      "PROJECTS": "Proyectos",
+      "ABOUT": "Nosotros",
+      "CONTACT": "Contacto"
+    },
+    "IKAL": {
+      "DESCRIPTION": "Compuesto por 20 propiedades, Ikal Condos se ha concebido para ofrecer una fusión armoniosa entre el estilo de vida contemporáneo y la naturaleza, gracias a sus acogedoras terrazas que aprovechan el viento, la luz natural y las vistas.",
+      "TITLE": "ikal - Espíritu",
+      "SUBTITLE": "15 Condominios | 5 Penthouses - PRE-VENTA",
+      "LOCATION": "Residencial Arrocito, Bahías de Huatulco.",
+      "DETAIL_1": "Compuesto por 20 propiedades, Ikal Condos se ha concebido para ofrecer una fusión armoniosa entre el estilo de vida contemporáneo y la naturaleza, proporcionando una experiencia residencial única. Cada unidad está diseñada meticulosamente con atención al detalle, destacando en la arquitectura moderna que se integra perfectamente con el entorno natural.",
+      "DETAIL_2": "Las acogedoras terrazas permiten a los residentes disfrutar del viento fresco, la luz natural, y las vistas espectaculares del paisaje circundante. Además, los espacios interiores se caracterizan por su amplitud y luminosidad, creando un ambiente cálido y acogedor, ideal para vivir y relajarse en completa armonía con la naturaleza."
+    },
+    "ARCHITECTURE": {
+      "DESCRIPTION_1": "Nuestra arquitectura se distingue por su diseño innovador que fusiona elegancia y funcionalidad, adaptándose perfectamente a las necesidades de los residentes. Actualmente, contamos con un inventario limitado de unidades disponibles, cada una con características únicas que reflejan el estilo distintivo de nuestra arquitectura.",
+      "DESCRIPTION_2": "Estas propiedades exclusivas están listas para ofrecer una experiencia de vida incomparable, combinando lujo y confort en cada rincón del hogar.",
+      "VIEWS": {
+        "FRONT": "VISTA FRONTAL",
+        "SIDE": "VISTA LATERAL"
+      }
+    },
+    "PRICE_LIST": {
+      "TITLE": "LISTA DE PRECIOS",
+      "HEADERS": {
+        "UNIT": "UNIDAD",
+        "TOTAL": "TOTAL",
+        "PRICE": "PRECIO",
+        "PDF": "PDF"
+      },
+      "SOLD": "VENDIDO",
+      "DOWNLOAD": "Descargar"
+    },
+    "BEACH": {
+      "ARROCITO": "Playa Arrocito es un pequeño paraíso escondido en la costa de Huatulco. Con su arena dorada y aguas cristalinas, ofrece un ambiente tranquilo ideal para relajarse. Rodeada de naturaleza, es perfecta para nadar y disfrutar del paisaje. Su encanto reside en su serenidad y belleza natural inigualable.",
+      "DISTANCE": "Playa Arrocito, conocida por su belleza y tranquilidad, se encuentra a tan solo 5 minutos de nuestro proyecto, brindando a los residentes la oportunidad de disfrutar del mar y la naturaleza en cuestión de minutos.",
+      "LIFESTYLE": "El estilo de vida en Huatulco combina la tranquilidad costera con un ambiente vibrante. Rodeado de naturaleza, sus residentes disfrutan de actividades al aire libre, playas espectaculares y un clima cálido todo el año. Es un lugar donde la calidad de vida se encuentra en armonía con la belleza del entorno."
+    },
+    "PROJECTS": {
+      "TITLE": "Explora otros proyectos listos para invertir",
+      "DESCRIPTION": "Nuestra arquitectura se distingue por su diseño innovador que fusiona elegancia y funcionalidad, adaptándose perfectamente a las necesidades de los residentes. Actualmente, contamos con un inventario limitado de unidades disponibles, cada una con características únicas que reflejan el estilo distintivo de nuestra arquitectura.",
+      "STATUS": "VENDIDO - SOLD OUT!"
+    },
+    "NEWSLETTER": {
+      "TITLE": "NUESTRO NEWSLETTER",
+      "DESCRIPTION": "Si estás interesado en conocer más de nuestro trabajo así como los proyectos en los que estamos participando, déjanos tu información y recibe nuestro newsletter.",
+      "PLACEHOLDERS": {
+        "NAME": "Nombre",
+        "EMAIL": "Email"
+      },
+      "BUTTON": "Inscribirme",
+      "FOLLOW": "Follow us"
+    },
+    "FOOTER": {
+      "BRAND": "Gurrión.com",
+      "LOGIN": "Login Panel"
+    }
+  }
+  
